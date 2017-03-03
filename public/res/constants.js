@@ -1,6 +1,6 @@
 define([], function() {
 	var constants = {};
-	constants.VERSION = "4.3.12";
+	constants.VERSION = "4.3.14";
 	constants.MAIN_URL = "https://mbsi-stackedit.herokuapp.com/";
 	constants.GOOGLE_ANALYTICS_ACCOUNT_ID = "UA-39556145-1";
 	constants.GOOGLE_API_KEY = "AIzaSyAeCU8CGcSkn0z9js6iocHuPBX4f_mMWkw";
